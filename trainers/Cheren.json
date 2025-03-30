@@ -5,11 +5,11 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate|ability2=sand_rush",
+            "ability": "intimidate",
             "moveset": [
                 "return",
                 "crunch",
-                "ice fang",
+                "icefang",
                 "reversal"
             ],
             "ivs": {
@@ -21,12 +21,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:focus_sash"
@@ -36,11 +36,11 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "adaptability|ability2=download",
+            "ability": "download",
             "moveset": [
-                "shadow ball",
+                "shadowball",
                 "psychic",
-                "signal beam",
+                "signalbeam",
                 "thunder"
             ],
             "ivs": {
@@ -52,27 +52,27 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:chople_berry"
         },
         {
             "species": "cobblemon:cinccino",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "cute_charm|ability2=technician",
+            "ability": "cutecharm",
             "moveset": [
-                "tail slap",
-                "rock blast",
-                "bullet seed",
-                "aqua tail"
+                "tailslap",
+                "rockblast",
+                "bulletseed",
+                "aquatail"
             ],
             "ivs": {
                 "hp": 31,
@@ -83,27 +83,27 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:king's_rock"
         },
         {
             "species": "cobblemon:lickilicky",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "own_tempo|ability2=oblivious",
+            "ability": "owntempo",
             "moveset": [
-                "hammer arm",
-                "power whip",
+                "hammerarm",
+                "powerwhip",
                 "thunder",
-                "ice punch"
+                "icepunch"
             ],
             "ivs": {
                 "hp": 31,
@@ -114,12 +114,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:expert_belt"
@@ -131,9 +131,9 @@
             "nature": "cobblemon:hardy",
             "ability": "forecast",
             "moveset": [
-                "weather ball",
-                "ice beam",
-                "rain dance",
+                "weatherball",
+                "icebeam",
+                "raindance",
                 "thunder"
             ],
             "ivs": {
@@ -145,26 +145,26 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:lum_berry"
         },
         {
             "species": "cobblemon:bouffalant",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "reckless|ability2=sap_sipper",
+            "ability": "reckless",
             "moveset": [
-                "head charge",
+                "headcharge",
                 "megahorn",
-                "wild charge",
+                "wildcharge",
                 "revenge"
             ],
             "ivs": {
@@ -176,12 +176,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:leftovers"

@@ -5,12 +5,12 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "poison_point|ability2=swarm",
+            "ability": "swarm",
             "moveset": [
-                "poison jab",
+                "poisonjab",
                 "megahorn",
                 "earthquake",
-                "rock slide"
+                "rockslide"
             ],
             "ivs": {
                 "hp": 31,
@@ -21,12 +21,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:choice_scarf"
@@ -36,12 +36,12 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "anticipation|ability2=dry_skin",
+            "ability": "anticipation",
             "moveset": [
                 "protect",
-                "drain punch",
-                "poison jab",
-                "swords dance"
+                "drainpunch",
+                "poisonjab",
+                "swordsdance"
             ],
             "ivs": {
                 "hp": 31,
@@ -52,26 +52,26 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:focus_sash"
         },
         {
             "species": "cobblemon:garbodor",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "stench|ability2=weak_armor",
+            "ability": "stench",
             "moveset": [
                 "psychic",
                 "thunderbolt",
-                "focus blast",
+                "focusblast",
                 "protect"
             ],
             "ivs": {
@@ -83,12 +83,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:expert_belt"
@@ -100,9 +100,9 @@
             "nature": "cobblemon:hardy",
             "ability": "inner_focus",
             "moveset": [
-                "cross poison",
-                "brave bird",
-                "zen headbutt",
+                "crosspoison",
+                "bravebird",
+                "zenheadbutt",
                 "tailwind"
             ],
             "ivs": {
@@ -114,26 +114,26 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:psychic_gem"
         },
         {
             "species": "cobblemon:drapion",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "battle_armor|ability2=sniper",
+            "ability": "battlearmor",
             "moveset": [
-                "cross poison",
-                "night slash",
-                "ice fang",
+                "crosspoison",
+                "nightslash",
+                "icefang",
                 "protect"
             ],
             "ivs": {
@@ -145,26 +145,26 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:scope_lens"
         },
         {
             "species": "cobblemon:amoonguss",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "effect_spore",
             "moveset": [
-                "foul play",
+                "foulplay",
                 "spore",
-                "giga drain",
+                "gigadrain",
                 "protect"
             ],
             "ivs": {
@@ -176,12 +176,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:black_sludge"

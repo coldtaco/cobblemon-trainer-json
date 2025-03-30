@@ -2,13 +2,13 @@
     "team": [
         {
             "species": "cobblemon:simipour",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "gluttony",
             "moveset": [
-                "hydro pump",
-                "low kick",
+                "hydropump",
+                "lowkick",
                 "acrobatics",
                 "crunch"
             ],
@@ -21,26 +21,26 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:water_gem"
         },
         {
             "species": "cobblemon:crawdaunt",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "hyper_cutter|ability2=shell_armor",
+            "ability": "shellarmor",
             "moveset": [
                 "crunch",
                 "waterfall",
-                "brick break",
+                "brickbreak",
                 "guillotine"
             ],
             "ivs": {
@@ -52,26 +52,26 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:choice_scarf"
         },
         {
             "species": "cobblemon:samurott",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "torrent",
             "moveset": [
-                "razor shell",
+                "razorshell",
                 "megahorn",
-                "aqua jet",
+                "aquajet",
                 "revenge"
             ],
             "ivs": {
@@ -83,27 +83,27 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:leftovers"
         },
         {
             "species": "cobblemon:azumarill",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "thick_fat|ability2=huge_power",
+            "ability": "hugepower",
             "moveset": [
-                "aqua tail",
-                "aqua jet",
+                "aquatail",
+                "aquajet",
                 "superpower",
-                "giga impact"
+                "gigaimpact"
             ],
             "ivs": {
                 "hp": 31,
@@ -114,12 +114,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:choice_band"
@@ -129,12 +129,12 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "oblivious|ability2=own_tempo",
+            "ability": "oblivious",
             "moveset": [
                 "blizzard",
                 "psychic",
-                "fire blast",
-                "nasty plot"
+                "fireblast",
+                "nastyplot"
             ],
             "ivs": {
                 "hp": 31,
@@ -145,12 +145,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:expert_belt"
@@ -160,12 +160,12 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swift_swim|ability2=poison_touch",
+            "ability": "poisontouch",
             "moveset": [
-                "hydro pump",
-                "poison jab",
-                "earth power",
-                "rain dance"
+                "hydropump",
+                "poisonjab",
+                "earthpower",
+                "raindance"
             ],
             "ivs": {
                 "hp": 31,
@@ -176,12 +176,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:rindo_berry"

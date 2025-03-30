@@ -5,12 +5,12 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rivalry|ability2=mold_breaker",
+            "ability": "moldbreaker",
             "moveset": [
                 "outrage",
-                "dragon dance",
+                "dragondance",
                 "earthquake",
-                "brick break"
+                "brickbreak"
             ],
             "ivs": {
                 "hp": 31,
@@ -21,12 +21,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:focus_sash"
@@ -36,10 +36,10 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rough_skin|ability2=sheer_force",
+            "ability": "roughskin",
             "moveset": [
-                "dragon tail",
-                "fire fang",
+                "dragontail",
+                "firefang",
                 "rest",
                 "glare"
             ],
@@ -52,12 +52,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:rocky_helmet"
@@ -69,10 +69,10 @@
             "nature": "cobblemon:hardy",
             "ability": "levitate",
             "moveset": [
-                "dragon pulse",
-                "dark pulse",
-                "fire blast",
-                "focus blast"
+                "dragonpulse",
+                "darkpulse",
+                "fireblast",
+                "focusblast"
             ],
             "ivs": {
                 "hp": 31,
@@ -83,12 +83,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:choice_specs"
@@ -100,10 +100,10 @@
             "nature": "cobblemon:hardy",
             "ability": "levitate",
             "moveset": [
-                "draco meteor",
-                "earth power",
-                "u-turn",
-                "fire blast"
+                "dracometeor",
+                "earthpower",
+                "uturn",
+                "fireblast"
             ],
             "ivs": {
                 "hp": 31,
@@ -114,12 +114,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:wide_lens"
@@ -131,9 +131,9 @@
             "nature": "cobblemon:hardy",
             "ability": "natural_cure",
             "moveset": [
-                "draco meteor",
-                "perish song",
-                "cotton guard",
+                "dracometeor",
+                "perishsong",
+                "cottonguard",
                 "roost"
             ],
             "ivs": {
@@ -145,12 +145,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:yache_berry"
@@ -162,9 +162,9 @@
             "nature": "cobblemon:hardy",
             "ability": "intimidate",
             "moveset": [
-                "draco meteor",
-                "hydro pump",
-                "fire blast",
+                "dracometeor",
+                "hydropump",
+                "fireblast",
                 "tailwind"
             ],
             "ivs": {
@@ -176,12 +176,12 @@
                 "speed": 31
             },
             "evs": {
-                "hp": 252,
-                "attack": 252,
-                "defence": 252,
-                "special_attack": 252,
-                "special_defence": 252,
-                "speed": 252
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
             },
             "shiny": false,
             "heldItem": "cobblemon:white_herb"
