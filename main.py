@@ -48,6 +48,10 @@ EVS = {stat: 31 for stat in ['hp', 'attack', 'defence', 'special_attack', 'speci
 #         else:
 #             mon['heldItem'] = f'cobblemon'
 
+def snake_case(s: str) -> str:
+    return '_'.join([word.lower() for word in s.split(" ")])
+
+
 def get_pokemon_value(content:str, key:str, end = '\n') -> str:
     return re.search(f'{key}.+{end}', content)[0].lstrip(f'{key}=').rstrip(end)
 
@@ -61,7 +65,7 @@ def parse_trainer(content:list[str]):
     for pokemon in pokemons[1:]:
         species = get_pokemon_value(pokemon, 'pokemon')
         
-        gender = ''
+        gender = 'GENDERLESS'
         if 'gender' in pokemon:
             gender = get_pokemon_value(pokemon, 'gender')
             gender = random.choice(['MALE', 'FEMALE']) if gender == 'both' else gender.upper()
@@ -76,10 +80,17 @@ def parse_trainer(content:list[str]):
         is_mega = item.endswith('ite X') or item.endswith('ite Y') or item.endswith('ite')
         mon = {}
         mon['species'] = f'cobblemon:{"mega" if is_mega else ""}{species.lower()}'
+
+        if item.endswith('ite X'):
+            mon['species'] += 'x'
+            
+        if item.endswith('ite Y'):
+            mon['species'] += 'y'
+
         mon['gender'] = gender
         mon['level'] = level
         mon['nature'] = 'cobblemon:hardy'
-        mon['ability'] = ability.lower()
+        mon['ability'] = snake_case(ability)
         mon['moveset'] = moves
         mon['ivs'] = IVS
         mon['evs'] = EVS
@@ -90,7 +101,7 @@ def parse_trainer(content:list[str]):
         elif is_mega:
             mon['heldItem'] = 'cobblemon:life_orb'
         else:
-            item = '_'.join([word.lower() for word in item.split(" ")])
+            item = snake_case(item)
             mon['heldItem'] = f'cobblemon:{item}'
         
         result.append(mon)
@@ -122,7 +133,7 @@ def parse_links(sources: list[str], save_loc: str, verbose: bool, overwrite: boo
             name, team = parse_trainer(content)
 
             with open(os.path.join(save_loc, f'{name}.json'), 'w') as f:
-                json.dump(team, f)
+                json.dump(team, f, indent=0)
 
 
 
