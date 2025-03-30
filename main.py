@@ -10,7 +10,7 @@ import os
 LINK_START = 'https://bulbapedia.bulbagarden.net/'
 
 IVS = {stat: 31 for stat in ['hp', 'attack', 'defence', 'special_attack', 'special_defence', 'speed']}
-EVS = {stat: 252 for stat in ['hp', 'attack', 'defence', 'special_attack', 'special_defence', 'speed']}
+EVS = {stat: 510//6 for stat in ['hp', 'attack', 'defence', 'special_attack', 'special_defence', 'speed']}
 
 # def parse_trainer(trainer: element.Tag) -> str:
 #     rows = trainer.find_all('tr', recursive=False)
@@ -51,6 +51,8 @@ EVS = {stat: 252 for stat in ['hp', 'attack', 'defence', 'special_attack', 'spec
 def snake_case(s: str) -> str:
     return '_'.join([word.lower() for word in s.split(" ")])
 
+def lowercase_nospace(s: str) -> str:
+    return s.replace(' ', '').replace('-', '').lower()
 
 def get_pokemon_value(content:str, key:str, end = '\n') -> str:
     return re.search(f'{key}=.+?{end}', content)[0].lstrip(f'{key}=').rstrip(end)
@@ -72,10 +74,13 @@ def parse_trainer(content:list[str]):
 
         level = int(get_pokemon_value(pokemon, 'level'))
         ability = get_pokemon_value(pokemon, 'ability')
+        if '|' in ability:
+            abilities = [a.split('=')[-1] for a in ability.split('|')]
+            ability = lowercase_nospace(random.choice(abilities))
         item = get_pokemon_value(pokemon, 'held')
 
         moves = [get_pokemon_value(pokemon, f'move{i}', '\|').lower() for i in range(1, 5)]
-
+        moves = [lowercase_nospace(m) for m in moves]
 
         is_mega = item.endswith('ite X') or item.endswith('ite Y') or item.endswith('ite')
         mon = {}
