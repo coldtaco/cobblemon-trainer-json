@@ -1,190 +1,190 @@
 {
-"team": [
-{
-"species": "cobblemon:leavanny",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "swarm|ability2=chlorophyll",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:focus_sash"
-},
-{
-"species": "cobblemon:vespiquen",
-"gender": "FEMALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "pressure",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:leftovers"
-},
-{
-"species": "cobblemon:crustle",
-"gender": "FEMALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "sturdy|ability2=shell_armor",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:salac_berry"
-},
-{
-"species": "cobblemon:heracross",
-"gender": "FEMALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "swarm|ability2=guts",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:choice_scarf"
-},
-{
-"species": "cobblemon:accelgor",
-"gender": "FEMALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "hydration|ability2=sticky_hold",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:brightpowder"
-},
-{
-"species": "cobblemon:durant",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "swarm|ability2=hustle",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:wide_lens"
-}
-]
+    "team": [
+        {
+            "species": "cobblemon:leavanny",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "swarm|ability2=chlorophyll",
+            "moveset": [
+                "swords dance",
+                "aerial ace",
+                "leaf blade",
+                "x-scissor"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:focus_sash"
+        },
+        {
+            "species": "cobblemon:vespiquen",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "pressure",
+            "moveset": [
+                "roost",
+                "toxic",
+                "defend order",
+                "attack order"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:leftovers"
+        },
+        {
+            "species": "cobblemon:crustle",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "sturdy|ability2=shell_armor",
+            "moveset": [
+                "earthquake",
+                "shell smash",
+                "rock blast",
+                "x-scissor"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:salac_berry"
+        },
+        {
+            "species": "cobblemon:heracross",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "swarm|ability2=guts",
+            "moveset": [
+                "stone edge",
+                "shadow claw",
+                "megahorn",
+                "close combat"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:choice_scarf"
+        },
+        {
+            "species": "cobblemon:accelgor",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "hydration|ability2=sticky_hold",
+            "moveset": [
+                "double team",
+                "focus blast",
+                "bug buzz",
+                "giga drain"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:brightpowder"
+        },
+        {
+            "species": "cobblemon:durant",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "swarm|ability2=hustle",
+            "moveset": [
+                "guillotine",
+                "stone edge",
+                "iron head",
+                "x-scissor"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:wide_lens"
+        }
+    ]
 }

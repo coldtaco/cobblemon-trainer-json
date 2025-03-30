@@ -1,190 +1,190 @@
 {
-"team": [
-{
-"species": "cobblemon:simisear",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "gluttony",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:fire_gem"
-},
-{
-"species": "cobblemon:heatmor",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "gluttony|ability2=flash_fire",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:focus_sash"
-},
-{
-"species": "cobblemon:darmanitan",
-"gender": "FEMALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "sheer_force",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:life_orb"
-},
-{
-"species": "cobblemon:arcanine",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "intimidate|ability2=flash_fire",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:power_herb"
-},
-{
-"species": "cobblemon:camerupt",
-"gender": "FEMALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "magma_armor|ability2=solid_rock",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:shuca_berry"
-},
-{
-"species": "cobblemon:emboar",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "blaze",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:expert_belt"
-}
-]
+    "team": [
+        {
+            "species": "cobblemon:simisear",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "gluttony",
+            "moveset": [
+                "overheat",
+                "low kick",
+                "acrobatics",
+                "crunch"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:fire_gem"
+        },
+        {
+            "species": "cobblemon:heatmor",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "gluttony|ability2=flash_fire",
+            "moveset": [
+                "fire blast",
+                "sucker punch",
+                "focus blast",
+                "sunny day"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:focus_sash"
+        },
+        {
+            "species": "cobblemon:darmanitan",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "sheer_force",
+            "moveset": [
+                "flare blitz",
+                "hammer arm",
+                "stone edge",
+                "u-turn"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:life_orb"
+        },
+        {
+            "species": "cobblemon:arcanine",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "intimidate|ability2=flash_fire",
+            "moveset": [
+                "overheat",
+                "dragon pulse",
+                "solarbeam",
+                "extremespeed"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:power_herb"
+        },
+        {
+            "species": "cobblemon:camerupt",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "magma_armor|ability2=solid_rock",
+            "moveset": [
+                "overheat",
+                "earthquake",
+                "stone edge",
+                "explosion"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:shuca_berry"
+        },
+        {
+            "species": "cobblemon:emboar",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "blaze",
+            "moveset": [
+                "flare blitz",
+                "wild charge",
+                "head smash",
+                "hammer arm"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:expert_belt"
+        }
+    ]
 }

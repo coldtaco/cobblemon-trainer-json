@@ -1,190 +1,190 @@
 {
-"team": [
-{
-"species": "cobblemon:cryogonal",
-"gender": "GENDERLESS",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "levitate",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:wide_lens"
-},
-{
-"species": "cobblemon:beartic",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "snow_cloak",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:brightpowder"
-},
-{
-"species": "cobblemon:vanilluxe",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "ice_body",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:leftovers"
-},
-{
-"species": "cobblemon:weavile",
-"gender": "FEMALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "pressure",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:focus_sash"
-},
-{
-"species": "cobblemon:dewgong",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "thick_fat|ability2=hydration",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:life_orb"
-},
-{
-"species": "cobblemon:walrein",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "thick_fat|ability2=ice_body",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:expert_belt"
-}
-]
+    "team": [
+        {
+            "species": "cobblemon:cryogonal",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "levitate",
+            "moveset": [
+                "ice shard",
+                "sheer cold",
+                "flash cannon",
+                "blizzard"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:wide_lens"
+        },
+        {
+            "species": "cobblemon:beartic",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "snow_cloak",
+            "moveset": [
+                "swords dance",
+                "substitute",
+                "focus punch",
+                "icicle crash"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:brightpowder"
+        },
+        {
+            "species": "cobblemon:vanilluxe",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "ice_body",
+            "moveset": [
+                "hail",
+                "weather ball",
+                "protect",
+                "blizzard"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:leftovers"
+        },
+        {
+            "species": "cobblemon:weavile",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "pressure",
+            "moveset": [
+                "night slash",
+                "fake out",
+                "brick break",
+                "ice shard"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:focus_sash"
+        },
+        {
+            "species": "cobblemon:dewgong",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "thick_fat|ability2=hydration",
+            "moveset": [
+                "fake out",
+                "drill run",
+                "aqua jet",
+                "frost breath"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:life_orb"
+        },
+        {
+            "species": "cobblemon:walrein",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "thick_fat|ability2=ice_body",
+            "moveset": [
+                "earthquake",
+                "super fang",
+                "aqua tail",
+                "avalanche"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:expert_belt"
+        }
+    ]
 }

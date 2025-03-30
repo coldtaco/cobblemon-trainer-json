@@ -1,190 +1,190 @@
 {
-"team": [
-{
-"species": "cobblemon:jellicent ",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "water_absorb|ability2=cursed_body",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:expert_belt"
-},
-{
-"species": "cobblemon:carracosta",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "solid_rock|ability2=sturdy",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:lum_berry"
-},
-{
-"species": "cobblemon:starmie",
-"gender": "GENDERLESS",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "illuminate|ability2=natural_cure",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:focus_sash"
-},
-{
-"species": "cobblemon:quagsire",
-"gender": "FEMALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "damp|ability2=water_absorb",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:rindo_berry"
-},
-{
-"species": "cobblemon:cloyster",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "shell_armor|ability2=skill_link",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:king's_rock"
-},
-{
-"species": "cobblemon:wailord ",
-"gender": "MALE",
-"level": 50,
-"nature": "cobblemon:hardy",
-"ability": "water_veil|ability2=oblivious",
-"moveset": [
-"",
-"",
-"",
-""
-],
-"ivs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"evs": {
-"hp": 31,
-"attack": 31,
-"defence": 31,
-"special_attack": 31,
-"special_defence": 31,
-"speed": 31
-},
-"shiny": false,
-"heldItem": "cobblemon:choice_scarf"
-}
-]
+    "team": [
+        {
+            "species": "cobblemon:jellicent ",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "water_absorb|ability2=cursed_body",
+            "moveset": [
+                "hydro pump",
+                "energy ball",
+                "shadow ball",
+                "psychic"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:expert_belt"
+        },
+        {
+            "species": "cobblemon:carracosta",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "solid_rock|ability2=sturdy",
+            "moveset": [
+                "rock slide",
+                "shell smash",
+                "aqua jet",
+                "waterfall"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:lum_berry"
+        },
+        {
+            "species": "cobblemon:starmie",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "illuminate|ability2=natural_cure",
+            "moveset": [
+                "thunderbolt",
+                "reflect",
+                "scald",
+                "light screen"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:focus_sash"
+        },
+        {
+            "species": "cobblemon:quagsire",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "damp|ability2=water_absorb",
+            "moveset": [
+                "stone edge",
+                "earthquake",
+                "waterfall",
+                "counter"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:rindo_berry"
+        },
+        {
+            "species": "cobblemon:cloyster",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "shell_armor|ability2=skill_link",
+            "moveset": [
+                "ice shard",
+                "icicle spear",
+                "rock blast",
+                "shell smash"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:king's_rock"
+        },
+        {
+            "species": "cobblemon:wailord ",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "water_veil|ability2=oblivious",
+            "moveset": [
+                "water spout",
+                "blizzard",
+                "bounce",
+                "fissure"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 252,
+                "attack": 252,
+                "defence": 252,
+                "special_attack": 252,
+                "special_defence": 252,
+                "speed": 252
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:choice_scarf"
+        }
+    ]
 }
