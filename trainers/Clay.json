@@ -1,1 +1,190 @@
-{"team": [{"species": "cobblemon:excadrill", "gender": "FEMALE", "level": 50, "nature": "cobblemon:hardy", "ability": "sand rush|ability2=sand force", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:focus_sash"}, {"species": "cobblemon:flygon", "gender": "FEMALE", "level": 50, "nature": "cobblemon:hardy", "ability": "levitate", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:liechi_berry"}, {"species": "cobblemon:krookodile", "gender": "MALE", "level": 50, "nature": "cobblemon:hardy", "ability": "intimidate|ability2=moxie", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:choice_band"}, {"species": "cobblemon:seismitoad", "gender": "MALE", "level": 50, "nature": "cobblemon:hardy", "ability": "swift swim|ability2=poison touch", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:life_orb"}, {"species": "cobblemon:mamoswine", "gender": "MALE", "level": 50, "nature": "cobblemon:hardy", "ability": "oblivious|ability2=snow cloak", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:ice_gem"}, {"species": "cobblemon:golurk", "gender": "", "level": 50, "nature": "cobblemon:hardy", "ability": "iron fist|ability2=klutz", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:leftovers"}]}
+{
+"team": [
+{
+"species": "cobblemon:excadrill",
+"gender": "MALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "sand_rush|ability2=sand_force",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:focus_sash"
+},
+{
+"species": "cobblemon:flygon",
+"gender": "MALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "levitate",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:liechi_berry"
+},
+{
+"species": "cobblemon:krookodile",
+"gender": "FEMALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "intimidate|ability2=moxie",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:choice_band"
+},
+{
+"species": "cobblemon:seismitoad",
+"gender": "MALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "swift_swim|ability2=poison_touch",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:life_orb"
+},
+{
+"species": "cobblemon:mamoswine",
+"gender": "FEMALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "oblivious|ability2=snow_cloak",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:ice_gem"
+},
+{
+"species": "cobblemon:golurk",
+"gender": "GENDERLESS",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "iron_fist|ability2=klutz",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:leftovers"
+}
+]
+}

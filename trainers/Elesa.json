@@ -1,1 +1,190 @@
-{"team": [{"species": "cobblemon:zebstrika", "gender": "FEMALE", "level": 50, "nature": "cobblemon:hardy", "ability": "lightningrod|ability2=motor drive", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:life_orb"}, {"species": "cobblemon:ampharos", "gender": "FEMALE", "level": 50, "nature": "cobblemon:hardy", "ability": "static", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:shuca_berry"}, {"species": "cobblemon:luxray", "gender": "FEMALE", "level": 50, "nature": "cobblemon:hardy", "ability": "rivalry|ability2=intimidate", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:expert_belt"}, {"species": "cobblemon:emolga", "gender": "FEMALE", "level": 50, "nature": "cobblemon:hardy", "ability": "static", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:flying_gem"}, {"species": "cobblemon:eelektross", "gender": "FEMALE", "level": 50, "nature": "cobblemon:hardy", "ability": "levitate", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:choice_band"}, {"species": "cobblemon:stunfisk", "gender": "FEMALE", "level": 50, "nature": "cobblemon:hardy", "ability": "static|ability2=limber", "moveset": ["", "", "", ""], "ivs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "evs": {"hp": 31, "attack": 31, "defence": 31, "special_attack": 31, "special_defence": 31, "speed": 31}, "shiny": false, "heldItem": "cobblemon:sitrus_berry"}]}
+{
+"team": [
+{
+"species": "cobblemon:zebstrika",
+"gender": "MALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "lightningrod|ability2=motor_drive",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:life_orb"
+},
+{
+"species": "cobblemon:ampharos",
+"gender": "FEMALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "static",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:shuca_berry"
+},
+{
+"species": "cobblemon:luxray",
+"gender": "FEMALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "rivalry|ability2=intimidate",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:expert_belt"
+},
+{
+"species": "cobblemon:emolga",
+"gender": "MALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "static",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:flying_gem"
+},
+{
+"species": "cobblemon:eelektross",
+"gender": "MALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "levitate",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:choice_band"
+},
+{
+"species": "cobblemon:stunfisk",
+"gender": "FEMALE",
+"level": 50,
+"nature": "cobblemon:hardy",
+"ability": "static|ability2=limber",
+"moveset": [
+"",
+"",
+"",
+""
+],
+"ivs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"evs": {
+"hp": 31,
+"attack": 31,
+"defence": 31,
+"special_attack": 31,
+"special_defence": 31,
+"speed": 31
+},
+"shiny": false,
+"heldItem": "cobblemon:sitrus_berry"
+}
+]
+}
