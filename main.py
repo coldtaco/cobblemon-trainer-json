@@ -1,11 +1,11 @@
+import argparse
 import json
+import os
 import random
 import re
+
 import requests
 from bs4 import BeautifulSoup, element
-import argparse
-
-import os
 
 LINK_START = 'https://bulbapedia.bulbagarden.net/'
 
@@ -114,17 +114,21 @@ def parse_trainer(content:list[str]):
     
     return trainer_name, {"team": result}
 
-def parse_links(sources: list[str], save_loc: str, verbose: bool, overwrite: bool):
+def parse_links(links: list[str], save_loc: str, verbose: bool, overwrite: bool):
     os.makedirs(save_loc, exist_ok=True)
 
-    for source in sources:
-        with open(source, 'r', encoding="utf8") as f:
-            content = f.readlines()
+    for link in links:
+        loc = link.lstrip('https://').split('/', 2)[-1]
+        link = f'https://bulbapedia.bulbagarden.net/w/index.php?title={loc}&action=edit'
+        region = loc.split('/')[-1]
 
+        r = requests.get(link)
+        soup = BeautifulSoup(r.content)
+        content = soup.find_all('textarea')[0].text
         trainers = []
         party_info = []
         reading = False
-        for line in content:
+        for line in content.split('\n'):
             if line.startswith('==='):
                 reading = True
             if line.startswith('{{Party/Footer}}'):
@@ -133,15 +137,15 @@ def parse_links(sources: list[str], save_loc: str, verbose: bool, overwrite: boo
                 party_info = []
 
             if reading:
-                party_info.append(line)
+                party_info.append(line+'\n')
         
-        for content in trainers[1:]:
+        os.makedirs(os.path.join(save_loc, region), exist_ok=True)
+        for content in trainers:
+            print(content)
             name, team = parse_trainer(content)
 
-            with open(os.path.join(save_loc, f'{name}.json'), 'w') as f:
+            with open(os.path.join(save_loc, region, f'{name}.json'), 'w') as f:
                 json.dump(team, f, indent=4)
-
-
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
