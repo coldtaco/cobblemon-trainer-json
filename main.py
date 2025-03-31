@@ -12,41 +12,12 @@ LINK_START = 'https://bulbapedia.bulbagarden.net/'
 IVS = {stat: 31 for stat in ['hp', 'attack', 'defence', 'special_attack', 'special_defence', 'speed']}
 EVS = {stat: 510//6 for stat in ['hp', 'attack', 'defence', 'special_attack', 'special_defence', 'speed']}
 
-# def parse_trainer(trainer: element.Tag) -> str:
-#     rows = trainer.find_all('tr', recursive=False)
+MOVE_DICT = {
+    'hijumpkick': 'highjumpkick'
+}
 
-#     pokemon, level, types, attacks, items = rows[1:6]
-
-#     print(pokemon)
-
-#     pokemon:list[str] = [p.text for p in pokemon.find_all('a')]
-#     level:list[int] = [int(l.text.strip('Level ')) for l in level.find_all('td', class_='level')]
-#     attacks:list[list[str]] = [[m.text for m in moveset.find_all('a')] for moveset in attacks.find_all('td', class_= 'bor')]
-#     items:list[str] = [item.text.lstrip('Hold Item:') for item in items.find_all('td', class_= 'bor')]
-
-#     j = {'team': []}
-
-#     for p, l, a, i in zip(pokemon, level, attacks, items):
-#         mon = {}
-
-#         is_mega = i.endswith('ite X') or i.endswith('ite Y') or i.endswith('ite')
-
-#         mon['species'] = f'cobblemon:{"mega" if is_mega else ""}{p.lower}'
-
-#         if i.endswith('ite X'):
-#             mon['species'] += 'x'
-            
-#         if i.endswith('ite Y'):
-#             mon['species'] += 'y'
-
-#         mon['ivs'] = IVS
-#         mon['shiny'] = False
-#         if i == 'No Item':
-#             mon['heldItem'] = "minecraft:air"
-#         elif is_mega:
-#             mon['heldItem'] = 'cobblemon:life_orb'
-#         else:
-#             mon['heldItem'] = f'cobblemon'
+def valid_move_names(s: str) -> str:
+    return MOVE_DICT.get(s, s)
 
 def snake_case(s: str) -> str:
     return '_'.join([word.lower() for word in s.split(" ")])
@@ -82,6 +53,7 @@ def parse_trainer(content:list[str]):
 
         moves = [get_pokemon_value(pokemon, f'move{i}', '\|').lower() for i in range(1, 5)]
         moves = [lowercase_nospace(m) for m in moves]
+        moves = [valid_move_names(m) for m in moves]
 
         is_mega = item.endswith('ite X') or item.endswith('ite Y') or item.endswith('ite')
         mon = {}
