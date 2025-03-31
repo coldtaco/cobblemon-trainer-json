@@ -52,6 +52,7 @@ def snake_case(s: str) -> str:
     return '_'.join([word.lower() for word in s.split(" ")])
 
 def lowercase_nospace(s: str) -> str:
+    s = re.sub('[^a-zA-Z0-9 \n\.]', '', s)
     return s.replace(' ', '').replace('-', '').replace('_', '').lower()
 
 def get_pokemon_value(content:str, key:str, end = '\n') -> str:
@@ -84,7 +85,7 @@ def parse_trainer(content:list[str]):
 
         is_mega = item.endswith('ite X') or item.endswith('ite Y') or item.endswith('ite')
         mon = {}
-        mon['species'] = f'cobblemon:{"mega" if is_mega else ""}{species.lower()}'
+        mon['species'] = f'cobblemon:{"mega" if is_mega else ""}{lowercase_nospace(species)}'
 
         if item.endswith('ite X'):
             mon['species'] += 'x'
@@ -106,7 +107,7 @@ def parse_trainer(content:list[str]):
         elif is_mega:
             mon['heldItem'] = 'cobblemon:life_orb'
         else:
-            item = snake_case(item)
+            item = snake_case(item).replace("'", '')
             mon['heldItem'] = f'cobblemon:{item}'
         
         result.append(mon)
