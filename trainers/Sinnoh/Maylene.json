@@ -5,7 +5,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "innerfocus",
+            "ability": "steadfast",
             "moveset": [
                 "closecombat",
                 "icepunch",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:infernape",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "blaze",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:toxicroak",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "anticipation",
@@ -134,7 +134,7 @@
                 "icepunch",
                 "zenheadbutt",
                 "thunderpunch",
-                "hijumpkick"
+                "highjumpkick"
             ],
             "ivs": {
                 "hp": 31,

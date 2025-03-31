@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:flygon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:krookodile",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "moxie",
+            "ability": "intimidate",
             "moveset": [
                 "earthquake",
                 "aquatail",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:seismitoad",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "poisontouch",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:mamoswine",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "oblivious",

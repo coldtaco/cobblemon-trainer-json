@@ -5,7 +5,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "illuminate",
+            "ability": "naturalcure",
             "moveset": [
                 "psychic",
                 "grassknot",
@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "illuminate",
+            "ability": "voltabsorb",
             "moveset": [
                 "thunderbolt",
                 "scald",
@@ -67,7 +67,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "cursedbody",
+            "ability": "waterabsorb",
             "moveset": [
                 "surf",
                 "shadowball",
@@ -98,7 +98,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "waterabsorb",
+            "ability": "shellarmor",
             "moveset": [
                 "hydropump",
                 "blizzard",
@@ -129,7 +129,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "waterabsorb",
+            "ability": "damp",
             "moveset": [
                 "waterfall",
                 "earthquake",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:blastoise",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "torrent",

@@ -5,7 +5,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "keeneye",
+            "ability": "tangledfeet",
             "moveset": [
                 "airslash",
                 "return",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:aerodactyl",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "rockhead",

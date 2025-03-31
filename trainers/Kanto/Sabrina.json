@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:exeggutor",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "chlorophyll",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:slowking",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "oblivious",
+            "ability": "owntempo",
             "moveset": [
                 "psychic",
                 "shadowball",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:espeon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "synchronize",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:sigilyph",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "wonderskin",
+            "ability": "magicguard",
             "moveset": [
                 "airslash",
                 "psychic",

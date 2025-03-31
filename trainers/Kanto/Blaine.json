@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:arcanine",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "flashfire",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:charizard",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "blaze",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:magmortar",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "flamebody",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:flareon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "flashfire",

@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:exploud",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "soundproof",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:sawsbuck",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sapsipper",
+            "ability": "chlorophyll",
             "moveset": [
                 "return",
                 "swordsdance",

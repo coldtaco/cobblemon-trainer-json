@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:venomoth",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "shielddust",
+            "ability": "tintedlens",
             "moveset": [
                 "quiverdance",
                 "bugbuzz",
@@ -67,7 +67,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "liquidooze",
+            "ability": "clearbody",
             "moveset": [
                 "scald",
                 "sludgebomb",
@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "naturalcure",
+            "ability": "poisonpoint",
             "moveset": [
                 "leafstorm",
                 "sleeppowder",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rivalry",
+            "ability": "poisonpoint",
             "moveset": [
                 "sludgewave",
                 "icebeam",

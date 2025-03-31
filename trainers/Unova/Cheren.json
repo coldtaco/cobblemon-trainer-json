@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:stoutland",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sandrush",
@@ -36,7 +36,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "adaptability",
+            "ability": "download",
             "moveset": [
                 "shadowball",
                 "psychic",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:lickilicky",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "owntempo",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:castform",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "forecast",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:bouffalant",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "reckless",
+            "ability": "sapsipper",
             "moveset": [
                 "headcharge",
                 "megahorn",

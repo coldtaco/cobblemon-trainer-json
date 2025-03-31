@@ -5,7 +5,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rockhead",
+            "ability": "sturdy",
             "moveset": [
                 "stoneedge",
                 "earthquake",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:kabutops",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "battlearmor",
+            "ability": "swiftswim",
             "moveset": [
                 "waterfall",
                 "rockslide",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:aerodactyl",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "pressure",
+            "ability": "rockhead",
             "moveset": [
                 "rockslide",
                 "earthquake",
@@ -160,7 +160,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "lightningrod",
+            "ability": "solidrock",
             "moveset": [
                 "earthquake",
                 "stoneedge",

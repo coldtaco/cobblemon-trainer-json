@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:bastiodon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sturdy",
@@ -129,7 +129,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sturdy",
+            "ability": "rockhead",
             "moveset": [
                 "ironhead",
                 "firepunch",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:forretress",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sturdy",

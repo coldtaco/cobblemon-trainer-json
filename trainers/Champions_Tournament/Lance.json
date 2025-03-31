@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:dragonite",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "innerfocus",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:salamence",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:kingdra",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sniper",
+            "ability": "swiftswim",
             "moveset": [
                 "surf",
                 "dragonpulse",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:haxorus",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rivalry",
+            "ability": "moldbreaker",
             "moveset": [
                 "outrage",
                 "superpower",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:flygon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",

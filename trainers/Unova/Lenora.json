@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:watchog",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "keeneye",
+            "ability": "illuminate",
             "moveset": [
                 "hypnosis",
                 "confuseray",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:cinccino",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "technician",
@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "earlybird",
+            "ability": "scrappy",
             "moveset": [
                 "fakeout",
                 "hammerarm",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:lickilicky",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "owntempo",
+            "ability": "oblivious",
             "moveset": [
                 "surf",
                 "icebeam",

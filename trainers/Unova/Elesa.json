@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:emolga",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "static",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:eelektross",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:stunfisk",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "limber",
+            "ability": "static",
             "moveset": [
                 "earthpower",
                 "foulplay",

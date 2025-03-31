@@ -36,7 +36,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "magnetpull",
+            "ability": "sturdy",
             "moveset": [
                 "stealthrock",
                 "earthpower",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:archeops",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "defeatist",
@@ -98,7 +98,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "shellarmor",
+            "ability": "sturdy",
             "moveset": [
                 "rockslide",
                 "xscissor",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:golem",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "rockhead",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:relicanth",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swiftswim",
+            "ability": "rockhead",
             "moveset": [
                 "headsmash",
                 "waterfall",

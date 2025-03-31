@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:probopass",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sturdy",
+            "ability": "magnetpull",
             "moveset": [
                 "painsplit",
                 "powergem",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:aggron",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sturdy",
+            "ability": "rockhead",
             "moveset": [
                 "metalburst",
                 "avalanche",
@@ -129,7 +129,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "solidrock",
+            "ability": "sturdy",
             "moveset": [
                 "shellsmash",
                 "rockslide",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:golem",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sturdy",

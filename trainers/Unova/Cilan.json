@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:ferrothorn",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "ironbarbs",
@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "leafguard",
+            "ability": "chlorophyll",
             "moveset": [
                 "leechseed",
                 "cottonguard",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:whimsicott",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "infiltrator",
+            "ability": "prankster",
             "moveset": [
                 "gigadrain",
                 "substitute",
@@ -160,7 +160,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "owntempo",
+            "ability": "chlorophyll",
             "moveset": [
                 "petaldance",
                 "quiverdance",

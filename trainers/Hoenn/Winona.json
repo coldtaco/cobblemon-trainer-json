@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:altaria",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "naturalcure",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:sigilyph",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "wonderskin",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:gyarados",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:skarmory",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sturdy",
+            "ability": "keeneye",
             "moveset": [
                 "aerialace",
                 "steelwing",
@@ -129,7 +129,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "chlorophyll",
+            "ability": "solarpower",
             "moveset": [
                 "sunnyday",
                 "attract",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:honchkrow",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "insomnia",

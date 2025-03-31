@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:mismagius",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:spiritomb",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "pressure",

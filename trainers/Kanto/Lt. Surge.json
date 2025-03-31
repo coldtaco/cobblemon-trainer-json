@@ -36,7 +36,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "static",
+            "ability": "soundproof",
             "moveset": [
                 "doubleteam",
                 "signalbeam",
@@ -67,7 +67,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "magnetpull",
+            "ability": "sturdy",
             "moveset": [
                 "discharge",
                 "flashcannon",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:electivire",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "motordrive",
@@ -160,7 +160,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "voltabsorb",
+            "ability": "illuminate",
             "moveset": [
                 "hydropump",
                 "thunder",

@@ -5,7 +5,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "lightningrod",
+            "ability": "static",
             "moveset": [
                 "doubleteam",
                 "thunderwave",
@@ -67,7 +67,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "soundproof",
+            "ability": "static",
             "moveset": [
                 "swagger",
                 "thunderwave",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:ampharos",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "static",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:raichu",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "static",

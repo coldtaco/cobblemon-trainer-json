@@ -5,7 +5,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "chlorophyll",
+            "ability": "swarm",
             "moveset": [
                 "swordsdance",
                 "aerialace",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:heracross",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swarm",
+            "ability": "guts",
             "moveset": [
                 "stoneedge",
                 "shadowclaw",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:accelgor",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "stickyhold",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:durant",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "hustle",

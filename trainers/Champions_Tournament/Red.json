@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:venusaur",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "overgrow",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:charizard",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "blaze",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:blastoise",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "torrent",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:snorlax",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "thickfat",
+            "ability": "immunity",
             "moveset": [
                 "bodyslam",
                 "earthquake",

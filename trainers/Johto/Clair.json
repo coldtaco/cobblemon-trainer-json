@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:kingdra",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sniper",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:dragonite",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "innerfocus",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:salamence",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:druddigon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sheerforce",
+            "ability": "roughskin",
             "moveset": [
                 "glare",
                 "suckerpunch",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:garchomp",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sandveil",

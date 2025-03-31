@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "angerpoint",
+            "ability": "intimidate",
             "moveset": [
                 "earthquake",
                 "protect",
@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "pickup",
+            "ability": "technician",
             "moveset": [
                 "doublehit",
                 "fakeout",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:lopunny",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "cutecharm",
+            "ability": "klutz",
             "moveset": [
                 "entrainment",
                 "encore",

@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:haxorus",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "moldbreaker",
+            "ability": "rivalry",
             "moveset": [
                 "outrage",
                 "dragondance",
@@ -33,10 +33,10 @@
         },
         {
             "species": "cobblemon:druddigon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "roughskin",
+            "ability": "sheerforce",
             "moveset": [
                 "dragontail",
                 "firefang",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:salamence",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",

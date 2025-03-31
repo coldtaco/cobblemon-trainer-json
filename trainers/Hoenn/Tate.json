@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:xatu",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "synchronize",
@@ -67,7 +67,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "levitate",
+            "ability": "heatproof",
             "moveset": [
                 "zenheadbutt",
                 "gyroball",

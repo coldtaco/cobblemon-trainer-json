@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:mamoswine",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "snowcloak",
+            "ability": "oblivious",
             "moveset": [
                 "iciclespear",
                 "iceshard",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:dewgong",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "thickfat",
@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "shellarmor",
+            "ability": "skilllink",
             "moveset": [
                 "shellsmash",
                 "explosion",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "waterabsorb",
+            "ability": "shellarmor",
             "moveset": [
                 "rest",
                 "surf",

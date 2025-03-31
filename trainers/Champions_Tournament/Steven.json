@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:excadrill",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sandforce",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:archeops",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "defeatist",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:cradily",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "suctioncups",

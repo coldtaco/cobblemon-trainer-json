@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:gastrodon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "stickyhold",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:poliwrath",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "damp",

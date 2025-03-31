@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:poliwrath",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "damp",
@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "noguard",
+            "ability": "guts",
             "moveset": [
                 "icepunch",
                 "stoneedge",
@@ -98,7 +98,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate",
+            "ability": "technician",
             "moveset": [
                 "triplekick",
                 "feint",
@@ -160,11 +160,11 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "reckless",
+            "ability": "limber",
             "moveset": [
                 "bulldoze",
                 "fakeout",
-                "hijumpkick",
+                "highjumpkick",
                 "stoneedge"
             ],
             "ivs": {

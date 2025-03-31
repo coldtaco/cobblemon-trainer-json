@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:scizor",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "technician",
+            "ability": "swarm",
             "moveset": [
                 "swordsdance",
                 "acrobatics",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:shuckle",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "gluttony",
@@ -67,7 +67,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "guts",
+            "ability": "swarm",
             "moveset": [
                 "shadowclaw",
                 "megahorn",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:pinsir",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "moldbreaker",
+            "ability": "hypercutter",
             "moveset": [
                 "protect",
                 "guillotine",

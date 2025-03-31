@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:garchomp",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sandveil",
@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rivalry",
+            "ability": "poisonpoint",
             "moveset": [
                 "flamethrower",
                 "icebeam",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "moxie",
+            "ability": "intimidate",
             "moveset": [
                 "superpower",
                 "firefang",

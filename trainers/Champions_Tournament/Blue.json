@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:aerodactyl",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "pressure",
+            "ability": "rockhead",
             "moveset": [
                 "stoneedge",
                 "earthquake",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:exeggutor",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "chlorophyll",
@@ -98,7 +98,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "synchronize",
+            "ability": "innerfocus",
             "moveset": [
                 "psychic",
                 "focusblast",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate",
+            "ability": "flashfire",
             "moveset": [
                 "flareblitz",
                 "closecombat",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:machamp",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "noguard",
+            "ability": "guts",
             "moveset": [
                 "superpower",
                 "stoneedge",

@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:roserade",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "naturalcure",
+            "ability": "poisonpoint",
             "moveset": [
                 "petaldance",
                 "weatherball",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:tropius",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "chlorophyll",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:breloom",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "effectspore",
@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "chlorophyll",
+            "ability": "leafguard",
             "moveset": [
                 "powerwhip",
                 "earthquake",

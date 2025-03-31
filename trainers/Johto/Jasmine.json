@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:steelix",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "rockhead",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:skarmory",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sturdy",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:lucario",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "steadfast",
+            "ability": "innerfocus",
             "moveset": [
                 "aurasphere",
                 "crunch",

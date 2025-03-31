@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:jolteon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "voltabsorb",
@@ -160,7 +160,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "soundproof",
+            "ability": "static",
             "moveset": [
                 "taunt",
                 "torment",

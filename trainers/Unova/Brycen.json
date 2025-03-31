@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:beartic",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "snowcloak",
@@ -160,7 +160,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "thickfat",
+            "ability": "icebody",
             "moveset": [
                 "earthquake",
                 "superfang",

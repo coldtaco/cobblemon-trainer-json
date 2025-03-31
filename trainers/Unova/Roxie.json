@@ -5,7 +5,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "poisonpoint",
+            "ability": "swarm",
             "moveset": [
                 "poisonjab",
                 "megahorn",
@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "dryskin",
+            "ability": "anticipation",
             "moveset": [
                 "protect",
                 "drainpunch",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:garbodor",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "weakarmor",
+            "ability": "stench",
             "moveset": [
                 "psychic",
                 "thunderbolt",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:drapion",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sniper",

@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:sharpedo",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "roughskin",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:swampert",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "torrent",

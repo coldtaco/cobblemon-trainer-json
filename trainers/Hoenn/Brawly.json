@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:breloom",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "effectspore",
+            "ability": "poisonheal",
             "moveset": [
                 "spore",
                 "focuspunch",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:machamp",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "guts",
+            "ability": "noguard",
             "moveset": [
                 "dynamicpunch",
                 "stoneedge",
@@ -126,12 +126,12 @@
         },
         {
             "species": "cobblemon:mienshao",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "innerfocus",
             "moveset": [
-                "hijumpkick",
+                "highjumpkick",
                 "fakeout",
                 "aerialace",
                 "drainpunch"
@@ -160,7 +160,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swarm",
+            "ability": "guts",
             "moveset": [
                 "megahorn",
                 "closecombat",

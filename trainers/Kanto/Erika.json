@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:vileplume",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "chlorophyll",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:venusaur",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "overgrow",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:exeggutor",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "chlorophyll",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:tangrowth",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "leafguard",

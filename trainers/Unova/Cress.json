@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:simipour",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "gluttony",
@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "hypercutter",
+            "ability": "shellarmor",
             "moveset": [
                 "crunch",
                 "waterfall",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:samurott",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "torrent",
@@ -98,7 +98,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "thickfat",
+            "ability": "hugepower",
             "moveset": [
                 "aquatail",
                 "aquajet",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "oblivious",
+            "ability": "owntempo",
             "moveset": [
                 "blizzard",
                 "psychic",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:seismitoad",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "swiftswim",
