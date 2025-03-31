@@ -1,0 +1,190 @@
+{
+    "team": [
+        {
+            "species": "cobblemon:kingdra",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "sniper",
+            "moveset": [
+                "raindance",
+                "hydropump",
+                "icebeam",
+                "dragonpulse"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:haban_berry"
+        },
+        {
+            "species": "cobblemon:walrein",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "thickfat",
+            "moveset": [
+                "toxic",
+                "sheercold",
+                "superfang",
+                "surf"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:leftovers"
+        },
+        {
+            "species": "cobblemon:crawdaunt",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "shellarmor",
+            "moveset": [
+                "raindance",
+                "crabhammer",
+                "guillotine",
+                "nightslash"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:life_orb"
+        },
+        {
+            "species": "cobblemon:whiscash",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "anticipation",
+            "moveset": [
+                "rest",
+                "earthquake",
+                "waterfall",
+                "spark"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:chesto_berry"
+        },
+        {
+            "species": "cobblemon:relicanth",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "swiftswim",
+            "moveset": [
+                "raindance",
+                "earthquake",
+                "waterfall",
+                "rockslide"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:damp_rock"
+        },
+        {
+            "species": "cobblemon:politoed",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "waterabsorb",
+            "moveset": [
+                "hypnosis",
+                "focusblast",
+                "icebeam",
+                "scald"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:wide_lens"
+        }
+    ]
+}

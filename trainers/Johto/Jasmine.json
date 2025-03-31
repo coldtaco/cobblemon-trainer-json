@@ -1,0 +1,190 @@
+{
+    "team": [
+        {
+            "species": "cobblemon:steelix",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "rockhead",
+            "moveset": [
+                "curse",
+                "stealthrock",
+                "earthquake",
+                "gyroball"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:rocky_helmet"
+        },
+        {
+            "species": "cobblemon:magnezone",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "sturdy",
+            "moveset": [
+                "thunderbolt",
+                "flashcannon",
+                "mirrorcoat",
+                "magnetrise"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:quick_claw"
+        },
+        {
+            "species": "cobblemon:forretress",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "sturdy",
+            "moveset": [
+                "earthquake",
+                "explosion",
+                "toxic",
+                "gyroball"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:iron_ball"
+        },
+        {
+            "species": "cobblemon:skarmory",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "keeneye",
+            "moveset": [
+                "curse",
+                "stealthrock",
+                "roost",
+                "aerialace"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:leftovers"
+        },
+        {
+            "species": "cobblemon:metagross",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "clearbody",
+            "moveset": [
+                "earthquake",
+                "explosion",
+                "meteormash",
+                "bulletpunch"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:air_balloon"
+        },
+        {
+            "species": "cobblemon:lucario",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "steadfast",
+            "moveset": [
+                "aurasphere",
+                "crunch",
+                "stoneedge",
+                "extremespeed"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:life_orb"
+        }
+    ]
+}

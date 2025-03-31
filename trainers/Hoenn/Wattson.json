@@ -1,0 +1,190 @@
+{
+    "team": [
+        {
+            "species": "cobblemon:manectric",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "static",
+            "moveset": [
+                "doubleteam",
+                "thunderwave",
+                "thunderbolt",
+                "flamethrower"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:life_orb"
+        },
+        {
+            "species": "cobblemon:magnezone",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "magnetpull",
+            "moveset": [
+                "thunderbolt",
+                "toxic",
+                "flashcannon",
+                "protect"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:leftovers"
+        },
+        {
+            "species": "cobblemon:electrode",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "static",
+            "moveset": [
+                "swagger",
+                "thunderwave",
+                "thunder",
+                "signalbeam"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:air_balloon"
+        },
+        {
+            "species": "cobblemon:rotom",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "levitate",
+            "moveset": [
+                "willowisp",
+                "hydropump",
+                "thunder",
+                "hex"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:wide_lens"
+        },
+        {
+            "species": "cobblemon:ampharos",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "static",
+            "moveset": [
+                "firepunch",
+                "bulldoze",
+                "thunderpunch",
+                "brickbreak"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:expert_belt"
+        },
+        {
+            "species": "cobblemon:raichu",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "static",
+            "moveset": [
+                "swagger",
+                "thunder",
+                "grassknot",
+                "focusblast"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:focus_sash"
+        }
+    ]
+}

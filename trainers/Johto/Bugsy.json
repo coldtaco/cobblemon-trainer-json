@@ -1,0 +1,190 @@
+{
+    "team": [
+        {
+            "species": "cobblemon:scizor",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "technician",
+            "moveset": [
+                "swordsdance",
+                "acrobatics",
+                "bulletpunch",
+                "uturn"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:sitrus_berry"
+        },
+        {
+            "species": "cobblemon:shuckle",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "sturdy",
+            "moveset": [
+                "stoneedge",
+                "earthquake",
+                "powersplit",
+                "toxic"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:rocky_helmet"
+        },
+        {
+            "species": "cobblemon:heracross",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "swarm",
+            "moveset": [
+                "shadowclaw",
+                "megahorn",
+                "stoneedge",
+                "closecombat"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:choice_band"
+        },
+        {
+            "species": "cobblemon:pinsir",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "moldbreaker",
+            "moveset": [
+                "protect",
+                "guillotine",
+                "bulldoze",
+                "xscissor"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:life_orb"
+        },
+        {
+            "species": "cobblemon:armaldo",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "battlearmor",
+            "moveset": [
+                "swordsdance",
+                "xscissor",
+                "stoneedge",
+                "earthquake"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:quick_claw"
+        },
+        {
+            "species": "cobblemon:yanmega",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "speedboost",
+            "moveset": [
+                "bugbuzz",
+                "gigadrain",
+                "protect",
+                "airslash"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:focus_sash"
+        }
+    ]
+}

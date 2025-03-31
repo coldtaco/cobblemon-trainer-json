@@ -1,0 +1,190 @@
+{
+    "team": [
+        {
+            "species": "cobblemon:vileplume",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "chlorophyll",
+            "moveset": [
+                "swordsdance",
+                "drainpunch",
+                "synthesis",
+                "sleeppowder"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:black_sludge"
+        },
+        {
+            "species": "cobblemon:venusaur",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "overgrow",
+            "moveset": [
+                "leafstorm",
+                "powerwhip",
+                "earthquake",
+                "outrage"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:expert_belt"
+        },
+        {
+            "species": "cobblemon:cradily",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "suctioncups",
+            "moveset": [
+                "curse",
+                "recover",
+                "seedbomb",
+                "stoneedge"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:leftovers"
+        },
+        {
+            "species": "cobblemon:exeggutor",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "chlorophyll",
+            "moveset": [
+                "leafstorm",
+                "psyshock",
+                "ancientpower",
+                "psychic"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:tanga_berry"
+        },
+        {
+            "species": "cobblemon:tangrowth",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "chlorophyll",
+            "moveset": [
+                "solarbeam",
+                "focusblast",
+                "ancientpower",
+                "synthesis"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:power_herb"
+        },
+        {
+            "species": "cobblemon:abomasnow",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "snowwarning",
+            "moveset": [
+                "leechseed",
+                "protect",
+                "blizzard",
+                "sheercold"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:focus_sash"
+        }
+    ]
+}

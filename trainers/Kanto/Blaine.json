@@ -1,16 +1,16 @@
 {
     "team": [
         {
-            "species": "cobblemon:watchog",
+            "species": "cobblemon:arcanine",
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "illuminate",
+            "ability": "intimidate",
             "moveset": [
-                "hypnosis",
-                "confuseray",
-                "superfang",
-                "flail"
+                "overheat",
+                "closecombat",
+                "extremespeed",
+                "bulldoze"
             ],
             "ivs": {
                 "hp": 31,
@@ -32,16 +32,16 @@
             "heldItem": "cobblemon:focus_sash"
         },
         {
-            "species": "cobblemon:braviary",
+            "species": "cobblemon:ninetales",
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "keeneye",
+            "ability": "flashfire",
             "moveset": [
-                "superpower",
-                "uturn",
-                "tailwind",
-                "skyattack"
+                "fireblast",
+                "energyball",
+                "psyshock",
+                "willowisp"
             ],
             "ivs": {
                 "hp": 31,
@@ -60,19 +60,19 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:power_herb"
+            "heldItem": "cobblemon:charti_berry"
         },
         {
-            "species": "cobblemon:cinccino",
-            "gender": "FEMALE",
+            "species": "cobblemon:charizard",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "cutecharm",
+            "ability": "blaze",
             "moveset": [
+                "flamethrower",
+                "airslash",
                 "focusblast",
-                "swift",
-                "thunderbolt",
-                "grassknot"
+                "dragonpulse"
             ],
             "ivs": {
                 "hp": 31,
@@ -94,47 +94,16 @@
             "heldItem": "cobblemon:life_orb"
         },
         {
-            "species": "cobblemon:kangaskhan",
+            "species": "cobblemon:magmortar",
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "earlybird",
+            "ability": "flamebody",
             "moveset": [
-                "fakeout",
-                "hammerarm",
-                "suckerpunch",
-                "icepunch"
-            ],
-            "ivs": {
-                "hp": 31,
-                "attack": 31,
-                "defence": 31,
-                "special_attack": 31,
-                "special_defence": 31,
-                "speed": 31
-            },
-            "evs": {
-                "hp": 85,
-                "attack": 85,
-                "defence": 85,
-                "special_attack": 85,
-                "special_defence": 85,
-                "speed": 85
-            },
-            "shiny": false,
-            "heldItem": "cobblemon:chople_berry"
-        },
-        {
-            "species": "cobblemon:sawsbuck",
-            "gender": "MALE",
-            "level": 50,
-            "nature": "cobblemon:hardy",
-            "ability": "sapsipper",
-            "moveset": [
-                "wildcharge",
-                "jumpkick",
-                "hornleech",
-                "megahorn"
+                "fireblast",
+                "psychic",
+                "thunderbolt",
+                "rockslide"
             ],
             "ivs": {
                 "hp": 31,
@@ -156,16 +125,16 @@
             "heldItem": "cobblemon:choice_scarf"
         },
         {
-            "species": "cobblemon:lickilicky",
-            "gender": "FEMALE",
+            "species": "cobblemon:flareon",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "oblivious",
+            "ability": "flashfire",
             "moveset": [
-                "surf",
-                "icebeam",
-                "thunderbolt",
-                "flamethrower"
+                "superpower",
+                "quickattack",
+                "overheat",
+                "toxic"
             ],
             "ivs": {
                 "hp": 31,
@@ -184,7 +153,38 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:expert_belt"
+            "heldItem": "cobblemon:passho_berry"
+        },
+        {
+            "species": "cobblemon:rotom",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "levitate",
+            "moveset": [
+                "trick",
+                "overheat",
+                "thunderbolt",
+                "painsplit"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:flame_orb"
         }
     ]
 }

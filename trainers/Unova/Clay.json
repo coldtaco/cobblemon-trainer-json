@@ -5,7 +5,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sandrush",
+            "ability": "sandforce",
             "moveset": [
                 "drillrun",
                 "rockslide",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:krookodile",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:seismitoad",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "poisontouch",

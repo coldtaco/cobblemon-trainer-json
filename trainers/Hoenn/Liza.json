@@ -1,109 +1,16 @@
 {
     "team": [
         {
-            "species": "cobblemon:stoutland",
-            "gender": "MALE",
-            "level": 50,
-            "nature": "cobblemon:hardy",
-            "ability": "sandrush",
-            "moveset": [
-                "return",
-                "crunch",
-                "icefang",
-                "reversal"
-            ],
-            "ivs": {
-                "hp": 31,
-                "attack": 31,
-                "defence": 31,
-                "special_attack": 31,
-                "special_defence": 31,
-                "speed": 31
-            },
-            "evs": {
-                "hp": 85,
-                "attack": 85,
-                "defence": 85,
-                "special_attack": 85,
-                "special_defence": 85,
-                "speed": 85
-            },
-            "shiny": false,
-            "heldItem": "cobblemon:focus_sash"
-        },
-        {
-            "species": "cobblemon:porygonz",
+            "species": "cobblemon:lunatone",
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "adaptability",
+            "ability": "levitate",
             "moveset": [
-                "shadowball",
-                "psychic",
+                "grassknot",
                 "signalbeam",
-                "thunder"
-            ],
-            "ivs": {
-                "hp": 31,
-                "attack": 31,
-                "defence": 31,
-                "special_attack": 31,
-                "special_defence": 31,
-                "speed": 31
-            },
-            "evs": {
-                "hp": 85,
-                "attack": 85,
-                "defence": 85,
-                "special_attack": 85,
-                "special_defence": 85,
-                "speed": 85
-            },
-            "shiny": false,
-            "heldItem": "cobblemon:chople_berry"
-        },
-        {
-            "species": "cobblemon:cinccino",
-            "gender": "FEMALE",
-            "level": 50,
-            "nature": "cobblemon:hardy",
-            "ability": "technician",
-            "moveset": [
-                "tailslap",
-                "rockblast",
-                "bulletseed",
-                "aquatail"
-            ],
-            "ivs": {
-                "hp": 31,
-                "attack": 31,
-                "defence": 31,
-                "special_attack": 31,
-                "special_defence": 31,
-                "speed": 31
-            },
-            "evs": {
-                "hp": 85,
-                "attack": 85,
-                "defence": 85,
-                "special_attack": 85,
-                "special_defence": 85,
-                "speed": 85
-            },
-            "shiny": false,
-            "heldItem": "cobblemon:kings_rock"
-        },
-        {
-            "species": "cobblemon:lickilicky",
-            "gender": "MALE",
-            "level": 50,
-            "nature": "cobblemon:hardy",
-            "ability": "oblivious",
-            "moveset": [
-                "hammerarm",
-                "powerwhip",
-                "thunder",
-                "icepunch"
+                "trickroom",
+                "cosmicpower"
             ],
             "ivs": {
                 "hp": 31,
@@ -125,16 +32,109 @@
             "heldItem": "cobblemon:expert_belt"
         },
         {
-            "species": "cobblemon:castform",
+            "species": "cobblemon:xatu",
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "forecast",
+            "ability": "earlybird",
             "moveset": [
-                "weatherball",
-                "icebeam",
-                "raindance",
-                "thunder"
+                "zenheadbutt",
+                "uturn",
+                "painsplit",
+                "trickroom"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:focus_sash"
+        },
+        {
+            "species": "cobblemon:bronzong",
+            "gender": "GENDERLESS",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "heatproof",
+            "moveset": [
+                "hypnosis",
+                "ironhead",
+                "earthquake",
+                "trickroom"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:rocky_helmet"
+        },
+        {
+            "species": "cobblemon:gothitelle",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "frisk",
+            "moveset": [
+                "psychic",
+                "shadowball",
+                "calmmind",
+                "trickroom"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:leftovers"
+        },
+        {
+            "species": "cobblemon:gardevoir",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "trace",
+            "moveset": [
+                "psychic",
+                "disable",
+                "thunderbolt",
+                "willowisp"
             ],
             "ivs": {
                 "hp": 31,
@@ -156,16 +156,16 @@
             "heldItem": "cobblemon:lum_berry"
         },
         {
-            "species": "cobblemon:bouffalant",
-            "gender": "MALE",
+            "species": "cobblemon:claydol",
+            "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sapsipper",
+            "ability": "levitate",
             "moveset": [
-                "headcharge",
-                "megahorn",
-                "wildcharge",
-                "revenge"
+                "psyshock",
+                "earthpower",
+                "trickroom",
+                "icebeam"
             ],
             "ivs": {
                 "hp": 31,
@@ -184,7 +184,7 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:leftovers"
+            "heldItem": "cobblemon:sitrus_berry"
         }
     ]
 }

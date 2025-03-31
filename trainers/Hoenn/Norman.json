@@ -1,16 +1,16 @@
 {
     "team": [
         {
-            "species": "cobblemon:haxorus",
-            "gender": "FEMALE",
+            "species": "cobblemon:slaking",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rivalry",
+            "ability": "truant",
             "moveset": [
-                "outrage",
-                "dragondance",
+                "gigaimpact",
+                "hammerarm",
                 "earthquake",
-                "brickbreak"
+                "nightslash"
             ],
             "ivs": {
                 "hp": 31,
@@ -29,19 +29,19 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:focus_sash"
+            "heldItem": "cobblemon:eject_button"
         },
         {
-            "species": "cobblemon:druddigon",
+            "species": "cobblemon:ambipom",
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "roughskin",
+            "ability": "pickup",
             "moveset": [
-                "dragontail",
-                "firefang",
-                "rest",
-                "glare"
+                "return",
+                "acrobatics",
+                "fakeout",
+                "firepunch"
             ],
             "ivs": {
                 "hp": 31,
@@ -60,19 +60,19 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:rocky_helmet"
+            "heldItem": "cobblemon:normal_gem"
         },
         {
-            "species": "cobblemon:hydreigon",
+            "species": "cobblemon:bouffalant",
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "levitate",
+            "ability": "reckless",
             "moveset": [
-                "dragonpulse",
-                "darkpulse",
-                "fireblast",
-                "focusblast"
+                "headcharge",
+                "stoneedge",
+                "megahorn",
+                "revenge"
             ],
             "ivs": {
                 "hp": 31,
@@ -91,81 +91,19 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:choice_specs"
+            "heldItem": "cobblemon:life_orb"
         },
         {
-            "species": "cobblemon:flygon",
-            "gender": "MALE",
-            "level": 50,
-            "nature": "cobblemon:hardy",
-            "ability": "levitate",
-            "moveset": [
-                "dracometeor",
-                "earthpower",
-                "uturn",
-                "fireblast"
-            ],
-            "ivs": {
-                "hp": 31,
-                "attack": 31,
-                "defence": 31,
-                "special_attack": 31,
-                "special_defence": 31,
-                "speed": 31
-            },
-            "evs": {
-                "hp": 85,
-                "attack": 85,
-                "defence": 85,
-                "special_attack": 85,
-                "special_defence": 85,
-                "speed": 85
-            },
-            "shiny": false,
-            "heldItem": "cobblemon:wide_lens"
-        },
-        {
-            "species": "cobblemon:altaria",
-            "gender": "MALE",
-            "level": 50,
-            "nature": "cobblemon:hardy",
-            "ability": "naturalcure",
-            "moveset": [
-                "dracometeor",
-                "perishsong",
-                "cottonguard",
-                "roost"
-            ],
-            "ivs": {
-                "hp": 31,
-                "attack": 31,
-                "defence": 31,
-                "special_attack": 31,
-                "special_defence": 31,
-                "speed": 31
-            },
-            "evs": {
-                "hp": 85,
-                "attack": 85,
-                "defence": 85,
-                "special_attack": 85,
-                "special_defence": 85,
-                "speed": 85
-            },
-            "shiny": false,
-            "heldItem": "cobblemon:yache_berry"
-        },
-        {
-            "species": "cobblemon:salamence",
-            "gender": "MALE",
+            "species": "cobblemon:staraptor",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",
             "moveset": [
-                "dracometeor",
-                "hydropump",
-                "fireblast",
-                "tailwind"
+                "bravebird",
+                "closecombat",
+                "quickattack",
+                "finalgambit"
             ],
             "ivs": {
                 "hp": 31,
@@ -184,7 +122,69 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:white_herb"
+            "heldItem": "cobblemon:choice_band"
+        },
+        {
+            "species": "cobblemon:exploud",
+            "gender": "FEMALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "soundproof",
+            "moveset": [
+                "fireblast",
+                "focusblast",
+                "hypervoice",
+                "blizzard"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:expert_belt"
+        },
+        {
+            "species": "cobblemon:sawsbuck",
+            "gender": "MALE",
+            "level": 50,
+            "nature": "cobblemon:hardy",
+            "ability": "chlorophyll",
+            "moveset": [
+                "return",
+                "swordsdance",
+                "hornleech",
+                "rest"
+            ],
+            "ivs": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "special_attack": 31,
+                "special_defence": 31,
+                "speed": 31
+            },
+            "evs": {
+                "hp": 85,
+                "attack": 85,
+                "defence": 85,
+                "special_attack": 85,
+                "special_defence": 85,
+                "speed": 85
+            },
+            "shiny": false,
+            "heldItem": "cobblemon:chesto_berry"
         }
     ]
 }
