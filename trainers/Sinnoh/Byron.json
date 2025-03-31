@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:bastiodon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sturdy",
@@ -98,7 +98,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sturdy",
+            "ability": "magnetpull",
             "moveset": [
                 "explosion",
                 "protect",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:aggron",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sturdy",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:forretress",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sturdy",

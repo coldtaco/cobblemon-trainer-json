@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:weavile",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "pressure",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:glaceon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "snowcloak",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:glalie",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "innerfocus",
+            "ability": "icebody",
             "moveset": [
                 "hail",
                 "blizzard",

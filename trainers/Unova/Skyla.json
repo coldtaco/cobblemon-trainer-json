@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:swanna",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "bigpecks",
@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "chlorophyll",
+            "ability": "leafguard",
             "moveset": [
                 "uturn",
                 "acrobatics",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:drifblim",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "unburden",
+            "ability": "aftermath",
             "moveset": [
                 "shadowball",
                 "thunderbolt",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:archeops",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "defeatist",

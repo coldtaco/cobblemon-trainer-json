@@ -36,7 +36,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "solarpower",
+            "ability": "chlorophyll",
             "moveset": [
                 "solarbeam",
                 "airslash",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:breloom",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "effectspore",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:tangrowth",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "chlorophyll",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:leafeon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "leafguard",

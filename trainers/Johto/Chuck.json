@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:poliwrath",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "damp",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:machamp",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "noguard",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:conkeldurr",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "guts",

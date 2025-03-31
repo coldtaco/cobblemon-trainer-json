@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:kingdra",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sniper",
+            "ability": "swiftswim",
             "moveset": [
                 "raindance",
                 "hydropump",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:walrein",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "thickfat",
@@ -67,7 +67,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "shellarmor",
+            "ability": "hypercutter",
             "moveset": [
                 "raindance",
                 "crabhammer",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:relicanth",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "swiftswim",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:politoed",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "waterabsorb",
+            "ability": "damp",
             "moveset": [
                 "hypnosis",
                 "focusblast",

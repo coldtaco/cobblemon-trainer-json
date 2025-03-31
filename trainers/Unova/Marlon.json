@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:jellicent",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "cursedbody",
@@ -36,7 +36,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sturdy",
+            "ability": "solidrock",
             "moveset": [
                 "rockslide",
                 "shellsmash",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:quagsire",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "waterabsorb",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:cloyster",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "shellarmor",

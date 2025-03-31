@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:haxorus",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rivalry",
+            "ability": "moldbreaker",
             "moveset": [
                 "outrage",
                 "dragondance",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:hydreigon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:flygon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:salamence",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",

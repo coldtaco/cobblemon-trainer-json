@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:simisear",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "gluttony",
@@ -33,10 +33,10 @@
         },
         {
             "species": "cobblemon:heatmor",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "gluttony",
+            "ability": "flashfire",
             "moveset": [
                 "fireblast",
                 "suckerpunch",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:darmanitan",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sheerforce",
@@ -98,7 +98,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate",
+            "ability": "flashfire",
             "moveset": [
                 "overheat",
                 "dragonpulse",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:camerupt",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "solidrock",
+            "ability": "magmaarmor",
             "moveset": [
                 "overheat",
                 "earthquake",

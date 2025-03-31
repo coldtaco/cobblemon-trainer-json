@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:excadrill",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sandforce",
+            "ability": "sandrush",
             "moveset": [
                 "drillrun",
                 "rockslide",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:krookodile",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate",
+            "ability": "moxie",
             "moveset": [
                 "earthquake",
                 "aquatail",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:mamoswine",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "oblivious",
@@ -160,7 +160,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "ironfist",
+            "ability": "klutz",
             "moveset": [
                 "shadowpunch",
                 "substitute",

@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:raichu",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "static",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:electivire",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "motordrive",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:jolteon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "voltabsorb",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:lanturn",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "illuminate",
+            "ability": "voltabsorb",
             "moveset": [
                 "hydropump",
                 "thunder",

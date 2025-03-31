@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:crawdaunt",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "hypercutter",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:samurott",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "torrent",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:azumarill",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "hugepower",
+            "ability": "thickfat",
             "moveset": [
                 "aquatail",
                 "aquajet",
@@ -160,7 +160,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "poisontouch",
+            "ability": "swiftswim",
             "moveset": [
                 "hydropump",
                 "poisonjab",

@@ -33,10 +33,10 @@
         },
         {
             "species": "cobblemon:sigilyph",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "magicguard",
+            "ability": "wonderskin",
             "moveset": [
                 "thunderwave",
                 "psychic",
@@ -129,7 +129,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "solarpower",
+            "ability": "chlorophyll",
             "moveset": [
                 "sunnyday",
                 "attract",

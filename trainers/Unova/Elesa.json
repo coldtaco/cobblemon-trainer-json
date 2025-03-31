@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:zebstrika",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "lightningrod",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:luxray",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:emolga",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "static",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:stunfisk",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "limber",

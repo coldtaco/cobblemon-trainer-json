@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "scrappy",
+            "ability": "earlybird",
             "moveset": [
                 "fakeout",
                 "hammerarm",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:sawsbuck",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sapsipper",

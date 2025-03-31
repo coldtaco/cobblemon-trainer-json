@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:kingdra",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sniper",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:altaria",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "naturalcure",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:druddigon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sheerforce",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:garchomp",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sandveil",

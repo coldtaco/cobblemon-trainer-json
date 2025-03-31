@@ -5,7 +5,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "naturalcure",
+            "ability": "illuminate",
             "moveset": [
                 "psychic",
                 "grassknot",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:lanturn",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "illuminate",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:lapras",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "shellarmor",
+            "ability": "waterabsorb",
             "moveset": [
                 "hydropump",
                 "blizzard",

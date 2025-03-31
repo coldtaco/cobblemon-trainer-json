@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "aftermath",
+            "ability": "unburden",
             "moveset": [
                 "willowisp",
                 "acrobatics",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:spiritomb",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "pressure",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:dusknoir",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "pressure",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:jellicent",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "waterabsorb",
+            "ability": "cursedbody",
             "moveset": [
                 "waterspout",
                 "brine",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:gengar",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",

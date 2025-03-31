@@ -5,7 +5,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swarm",
+            "ability": "poisonpoint",
             "moveset": [
                 "poisonjab",
                 "megahorn",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:toxicroak",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "dryskin",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:drapion",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sniper",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:amoonguss",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "effectspore",

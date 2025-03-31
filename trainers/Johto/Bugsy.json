@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:scizor",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "technician",
@@ -36,7 +36,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sturdy",
+            "ability": "gluttony",
             "moveset": [
                 "stoneedge",
                 "earthquake",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:heracross",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swarm",
+            "ability": "guts",
             "moveset": [
                 "shadowclaw",
                 "megahorn",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:pinsir",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "moldbreaker",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:armaldo",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "battlearmor",
@@ -160,7 +160,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "speedboost",
+            "ability": "tintedlens",
             "moveset": [
                 "bugbuzz",
                 "gigadrain",

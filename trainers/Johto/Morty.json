@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:mismagius",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "frisk",
+            "ability": "insomnia",
             "moveset": [
                 "shadowclaw",
                 "suckerpunch",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:chandelure",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "flamebody",

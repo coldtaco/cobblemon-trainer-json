@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:mamoswine",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "snowcloak",
@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "hydration",
+            "ability": "thickfat",
             "moveset": [
                 "dive",
                 "sheercold",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:weavile",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "pressure",

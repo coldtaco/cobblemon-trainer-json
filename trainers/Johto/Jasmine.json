@@ -98,7 +98,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "keeneye",
+            "ability": "sturdy",
             "moveset": [
                 "curse",
                 "stealthrock",

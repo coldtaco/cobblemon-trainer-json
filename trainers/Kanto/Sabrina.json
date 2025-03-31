@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:alakazam",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "innerfocus",
+            "ability": "synchronize",
             "moveset": [
                 "psychic",
                 "shadowball",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:exeggutor",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "chlorophyll",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:espeon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "synchronize",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:sigilyph",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "wonderskin",

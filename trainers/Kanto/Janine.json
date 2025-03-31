@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:tentacruel",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "liquidooze",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "poisonpoint",
+            "ability": "rivalry",
             "moveset": [
                 "sludgewave",
                 "icebeam",

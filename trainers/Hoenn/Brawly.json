@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:hariyama",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "thickfat",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:scrafty",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "moxie",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:breloom",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "poisonheal",
+            "ability": "effectspore",
             "moveset": [
                 "spore",
                 "focuspunch",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:machamp",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "guts",
@@ -129,7 +129,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "regenerator",
+            "ability": "innerfocus",
             "moveset": [
                 "hijumpkick",
                 "fakeout",
@@ -160,7 +160,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "guts",
+            "ability": "swarm",
             "moveset": [
                 "megahorn",
                 "closecombat",

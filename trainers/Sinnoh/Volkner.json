@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:electivire",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "motordrive",
@@ -36,7 +36,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "rivalry",
+            "ability": "intimidate",
             "moveset": [
                 "superpower",
                 "crunch",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:raichu",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "static",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:jolteon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "voltabsorb",

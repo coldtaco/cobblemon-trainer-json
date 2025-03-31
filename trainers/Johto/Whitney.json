@@ -36,7 +36,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "serenegrace",
+            "ability": "naturalcure",
             "moveset": [
                 "softboiled",
                 "toxic",
@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate",
+            "ability": "angerpoint",
             "moveset": [
                 "earthquake",
                 "protect",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:ursaring",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "quickfeet",
+            "ability": "guts",
             "moveset": [
                 "swordsdance",
                 "facade",

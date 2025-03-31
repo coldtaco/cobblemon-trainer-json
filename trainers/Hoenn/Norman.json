@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:slaking",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "truant",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:bouffalant",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "reckless",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:sawsbuck",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "chlorophyll",
+            "ability": "sapsipper",
             "moveset": [
                 "return",
                 "swordsdance",

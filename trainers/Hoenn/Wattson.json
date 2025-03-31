@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:manectric",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "static",
+            "ability": "lightningrod",
             "moveset": [
                 "doubleteam",
                 "thunderwave",
@@ -67,7 +67,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "static",
+            "ability": "soundproof",
             "moveset": [
                 "swagger",
                 "thunderwave",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:ampharos",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "static",

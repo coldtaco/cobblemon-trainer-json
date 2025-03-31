@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:garchomp",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sandveil",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:gliscor",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sandveil",
+            "ability": "hypercutter",
             "moveset": [
                 "firefang",
                 "acrobatics",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate",
+            "ability": "moxie",
             "moveset": [
                 "superpower",
                 "firefang",

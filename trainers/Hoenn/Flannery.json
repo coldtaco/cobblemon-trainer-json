@@ -67,7 +67,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "flamebody",
+            "ability": "flashfire",
             "moveset": [
                 "flamecharge",
                 "shadowball",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:blaziken",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "blaze",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:houndoom",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "earlybird",
+            "ability": "flashfire",
             "moveset": [
                 "willowisp",
                 "suckerpunch",

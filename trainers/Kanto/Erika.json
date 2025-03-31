@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:venusaur",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "overgrow",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:cradily",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "suctioncups",
@@ -129,7 +129,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "chlorophyll",
+            "ability": "leafguard",
             "moveset": [
                 "solarbeam",
                 "focusblast",

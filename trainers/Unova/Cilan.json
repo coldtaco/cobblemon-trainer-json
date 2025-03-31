@@ -1,16 +1,16 @@
 {
     "team": [
         {
-            "species": "cobblemon:cryogonal",
-            "gender": "GENDERLESS",
+            "species": "cobblemon:simisage",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "levitate",
+            "ability": "gluttony",
             "moveset": [
-                "iceshard",
-                "sheercold",
-                "flashcannon",
-                "blizzard"
+                "seedbomb",
+                "lowkick",
+                "acrobatics",
+                "crunch"
             ],
             "ivs": {
                 "hp": 31,
@@ -29,19 +29,19 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:wide_lens"
+            "heldItem": "cobblemon:grass_gem"
         },
         {
-            "species": "cobblemon:beartic",
-            "gender": "MALE",
+            "species": "cobblemon:ferrothorn",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "snowcloak",
+            "ability": "ironbarbs",
             "moveset": [
-                "swordsdance",
-                "substitute",
-                "focuspunch",
-                "iciclecrash"
+                "powerwhip",
+                "gyroball",
+                "bulldoze",
+                "explosion"
             ],
             "ivs": {
                 "hp": 31,
@@ -60,19 +60,19 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:brightpowder"
+            "heldItem": "cobblemon:choice_band"
         },
         {
-            "species": "cobblemon:vanilluxe",
+            "species": "cobblemon:serperior",
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "icebody",
+            "ability": "overgrow",
             "moveset": [
-                "hail",
-                "weatherball",
+                "leechseed",
                 "protect",
-                "blizzard"
+                "aerialace",
+                "leafblade"
             ],
             "ivs": {
                 "hp": 31,
@@ -94,16 +94,16 @@
             "heldItem": "cobblemon:leftovers"
         },
         {
-            "species": "cobblemon:weavile",
+            "species": "cobblemon:jumpluff",
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "pressure",
+            "ability": "leafguard",
             "moveset": [
-                "nightslash",
-                "fakeout",
-                "brickbreak",
-                "iceshard"
+                "leechseed",
+                "cottonguard",
+                "gigadrain",
+                "sleeppowder"
             ],
             "ivs": {
                 "hp": 31,
@@ -125,16 +125,16 @@
             "heldItem": "cobblemon:focus_sash"
         },
         {
-            "species": "cobblemon:dewgong",
-            "gender": "FEMALE",
+            "species": "cobblemon:whimsicott",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "hydration",
+            "ability": "infiltrator",
             "moveset": [
-                "fakeout",
-                "drillrun",
-                "aquajet",
-                "frostbreath"
+                "gigadrain",
+                "substitute",
+                "hurricane",
+                "leechseed"
             ],
             "ivs": {
                 "hp": 31,
@@ -153,19 +153,19 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:life_orb"
+            "heldItem": "cobblemon:mental_herb"
         },
         {
-            "species": "cobblemon:walrein",
+            "species": "cobblemon:lilligant",
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "thickfat",
+            "ability": "owntempo",
             "moveset": [
-                "earthquake",
-                "superfang",
-                "aquatail",
-                "avalanche"
+                "petaldance",
+                "quiverdance",
+                "sleeppowder",
+                "dreameater"
             ],
             "ivs": {
                 "hp": 31,
@@ -184,7 +184,7 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:expert_belt"
+            "heldItem": "cobblemon:miracle_seed"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:stoutland",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "sandrush",
@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "technician",
+            "ability": "cutecharm",
             "moveset": [
                 "tailslap",
                 "rockblast",
@@ -98,7 +98,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "oblivious",
+            "ability": "owntempo",
             "moveset": [
                 "hammerarm",
                 "powerwhip",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:castform",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "forecast",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:bouffalant",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "reckless",

@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:xatu",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "earlybird",
@@ -67,7 +67,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "heatproof",
+            "ability": "levitate",
             "moveset": [
                 "hypnosis",
                 "ironhead",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:gothitelle",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "frisk",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:gardevoir",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "trace",
