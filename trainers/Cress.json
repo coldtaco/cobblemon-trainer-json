@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:samurott",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "torrent",
@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "hugepower",
+            "ability": "thickfat",
             "moveset": [
                 "aquatail",
                 "aquajet",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:slowking",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "oblivious",
+            "ability": "owntempo",
             "moveset": [
                 "blizzard",
                 "psychic",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:seismitoad",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "poisontouch",

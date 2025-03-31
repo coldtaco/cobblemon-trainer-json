@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:scolipede",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "swarm",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:crobat",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "inner_focus",
+            "ability": "innerfocus",
             "moveset": [
                 "crosspoison",
                 "bravebird",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:drapion",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "battlearmor",
+            "ability": "sniper",
             "moveset": [
                 "crosspoison",
                 "nightslash",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:amoonguss",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "effect_spore",
+            "ability": "effectspore",
             "moveset": [
                 "foulplay",
                 "spore",

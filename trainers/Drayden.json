@@ -5,7 +5,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "moldbreaker",
+            "ability": "rivalry",
             "moveset": [
                 "outrage",
                 "dragondance",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:hydreigon",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:flygon",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "natural_cure",
+            "ability": "naturalcure",
             "moveset": [
                 "dracometeor",
                 "perishsong",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:salamence",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",

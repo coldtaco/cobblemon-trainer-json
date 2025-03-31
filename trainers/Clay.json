@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:excadrill",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sandforce",
+            "ability": "sandrush",
             "moveset": [
                 "drillrun",
                 "rockslide",
@@ -129,7 +129,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "oblivious",
+            "ability": "snowcloak",
             "moveset": [
                 "fissure",
                 "stoneedge",

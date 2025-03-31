@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:watchog",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "keeneye",
+            "ability": "illuminate",
             "moveset": [
                 "hypnosis",
                 "confuseray",
@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "keeneye",
+            "ability": "sheerforce",
             "moveset": [
                 "superpower",
                 "uturn",
@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "technician",
+            "ability": "cutecharm",
             "moveset": [
                 "focusblast",
                 "swift",
@@ -160,7 +160,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "owntempo",
+            "ability": "oblivious",
             "moveset": [
                 "surf",
                 "icebeam",

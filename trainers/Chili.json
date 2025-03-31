@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:simisear",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "gluttony",
@@ -33,10 +33,10 @@
         },
         {
             "species": "cobblemon:heatmor",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "gluttony",
+            "ability": "flashfire",
             "moveset": [
                 "fireblast",
                 "suckerpunch",
@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sheer_force",
+            "ability": "sheerforce",
             "moveset": [
                 "flareblitz",
                 "hammerarm",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:arcanine",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "intimidate",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:emboar",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "blaze",

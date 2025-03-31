@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "snow_cloak",
+            "ability": "snowcloak",
             "moveset": [
                 "swordsdance",
                 "substitute",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:vanilluxe",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "ice_body",
+            "ability": "icebody",
             "moveset": [
                 "hail",
                 "weatherball",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:weavile",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "pressure",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:dewgong",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "hydration",
+            "ability": "thickfat",
             "moveset": [
                 "fakeout",
                 "drillrun",
@@ -160,7 +160,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "thickfat",
+            "ability": "icebody",
             "moveset": [
                 "earthquake",
                 "superfang",

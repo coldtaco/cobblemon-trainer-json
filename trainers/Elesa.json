@@ -5,7 +5,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "motordrive",
+            "ability": "lightningrod",
             "moveset": [
                 "wildcharge",
                 "overheat",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:ampharos",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "static",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:eelektross",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "levitate",
@@ -160,7 +160,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "static",
+            "ability": "limber",
             "moveset": [
                 "earthpower",
                 "foulplay",

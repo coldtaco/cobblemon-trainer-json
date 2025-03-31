@@ -36,7 +36,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "download",
+            "ability": "adaptability",
             "moveset": [
                 "shadowball",
                 "psychic",
@@ -67,7 +67,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "cutecharm",
+            "ability": "technician",
             "moveset": [
                 "tailslap",
                 "rockblast",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:lickilicky",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "owntempo",
@@ -160,7 +160,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "reckless",
+            "ability": "sapsipper",
             "moveset": [
                 "headcharge",
                 "megahorn",
