@@ -52,7 +52,7 @@ def snake_case(s: str) -> str:
     return '_'.join([word.lower() for word in s.split(" ")])
 
 def lowercase_nospace(s: str) -> str:
-    return s.replace(' ', '').replace('-', '').lower()
+    return s.replace(' ', '').replace('-', '').replace('_', '').lower()
 
 def get_pokemon_value(content:str, key:str, end = '\n') -> str:
     return re.search(f'{key}=.+?{end}', content)[0].lstrip(f'{key}=').rstrip(end)
@@ -95,7 +95,7 @@ def parse_trainer(content:list[str]):
         mon['gender'] = gender
         mon['level'] = level
         mon['nature'] = 'cobblemon:hardy'
-        mon['ability'] = snake_case(ability)
+        mon['ability'] = lowercase_nospace(ability)
         mon['moveset'] = moves
         mon['ivs'] = IVS
         mon['evs'] = EVS
