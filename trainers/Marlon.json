@@ -1,11 +1,11 @@
 {
     "team": [
         {
-            "species": "cobblemon:jellicent ",
-            "gender": "FEMALE",
+            "species": "cobblemon:jellicent",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "waterabsorb",
+            "ability": "cursedbody",
             "moveset": [
                 "hydropump",
                 "energyball",
@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:carracosta",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "solidrock",
@@ -67,7 +67,7 @@
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "naturalcure",
+            "ability": "illuminate",
             "moveset": [
                 "thunderbolt",
                 "reflect",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:quagsire",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "waterabsorb",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:cloyster",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "skilllink",
@@ -153,14 +153,14 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:king's_rock"
+            "heldItem": "cobblemon:kings_rock"
         },
         {
-            "species": "cobblemon:wailord ",
-            "gender": "FEMALE",
+            "species": "cobblemon:wailord",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "oblivious",
+            "ability": "waterveil",
             "moveset": [
                 "waterspout",
                 "blizzard",

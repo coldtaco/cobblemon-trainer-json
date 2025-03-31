@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:heatmor",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "flashfire",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:arcanine",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate",
+            "ability": "flashfire",
             "moveset": [
                 "overheat",
                 "dragonpulse",
@@ -126,10 +126,10 @@
         },
         {
             "species": "cobblemon:camerupt",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "magmaarmor",
+            "ability": "solidrock",
             "moveset": [
                 "overheat",
                 "earthquake",
@@ -157,7 +157,7 @@
         },
         {
             "species": "cobblemon:emboar",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "blaze",

@@ -33,7 +33,7 @@
         },
         {
             "species": "cobblemon:beartic",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "snowcloak",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:vanilluxe",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "icebody",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:weavile",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "pressure",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:dewgong",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "thickfat",

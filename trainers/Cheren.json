@@ -5,7 +5,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "intimidate",
+            "ability": "sandrush",
             "moveset": [
                 "return",
                 "crunch",
@@ -32,7 +32,7 @@
             "heldItem": "cobblemon:focus_sash"
         },
         {
-            "species": "cobblemon:porygon-z",
+            "species": "cobblemon:porygonz",
             "gender": "GENDERLESS",
             "level": 50,
             "nature": "cobblemon:hardy",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:cinccino",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "technician",
@@ -91,14 +91,14 @@
                 "speed": 85
             },
             "shiny": false,
-            "heldItem": "cobblemon:king's_rock"
+            "heldItem": "cobblemon:kings_rock"
         },
         {
             "species": "cobblemon:lickilicky",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "owntempo",
+            "ability": "oblivious",
             "moveset": [
                 "hammerarm",
                 "powerwhip",
@@ -126,7 +126,7 @@
         },
         {
             "species": "cobblemon:castform",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "forecast",

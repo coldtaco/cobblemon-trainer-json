@@ -2,10 +2,10 @@
     "team": [
         {
             "species": "cobblemon:leavanny",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swarm",
+            "ability": "chlorophyll",
             "moveset": [
                 "swordsdance",
                 "aerialace",
@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:crustle",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sturdy",
+            "ability": "shellarmor",
             "moveset": [
                 "earthquake",
                 "shellsmash",
@@ -95,10 +95,10 @@
         },
         {
             "species": "cobblemon:heracross",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swarm",
+            "ability": "guts",
             "moveset": [
                 "stoneedge",
                 "shadowclaw",
@@ -129,7 +129,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "stickyhold",
+            "ability": "hydration",
             "moveset": [
                 "doubleteam",
                 "focusblast",
@@ -157,10 +157,10 @@
         },
         {
             "species": "cobblemon:durant",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "swarm",
+            "ability": "hustle",
             "moveset": [
                 "guillotine",
                 "stoneedge",

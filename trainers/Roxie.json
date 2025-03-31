@@ -64,10 +64,10 @@
         },
         {
             "species": "cobblemon:garbodor",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "stench",
+            "ability": "weakarmor",
             "moveset": [
                 "psychic",
                 "thunderbolt",
@@ -95,7 +95,7 @@
         },
         {
             "species": "cobblemon:crobat",
-            "gender": "FEMALE",
+            "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "innerfocus",

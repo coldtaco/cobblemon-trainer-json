@@ -2,7 +2,7 @@
     "team": [
         {
             "species": "cobblemon:watchog",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "illuminate",
@@ -36,7 +36,7 @@
             "gender": "MALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "sheerforce",
+            "ability": "keeneye",
             "moveset": [
                 "superpower",
                 "uturn",
@@ -64,7 +64,7 @@
         },
         {
             "species": "cobblemon:cinccino",
-            "gender": "MALE",
+            "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
             "ability": "cutecharm",
@@ -98,7 +98,7 @@
             "gender": "FEMALE",
             "level": 50,
             "nature": "cobblemon:hardy",
-            "ability": "scrappy",
+            "ability": "earlybird",
             "moveset": [
                 "fakeout",
                 "hammerarm",
